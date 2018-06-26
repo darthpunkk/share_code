@@ -1,0 +1,5 @@
+hello this is line 1
+this is line 2
+this line is extra in file 'b'
+this line is extra as well in file 'b'
+this is line 3
